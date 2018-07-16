@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6a3a32a682256604789da5a93c7da5ea
+timeCreated: 1516455966
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Steelworks Vintage Demo
+  fontNames:
+  - Steelworks Vintage Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

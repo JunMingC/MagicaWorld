@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 67cc4dc6c11655c4db2f0996110ca5fb
+timeCreated: 1516455507
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rush
+  fontNames:
+  - Rush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

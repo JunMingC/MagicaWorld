@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2067402452, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: AWT5Jmn/////AAAAGT3rGeQ6FUpRlkzhPOSK2mRwQWTXNVOadCEFjlK0IvR0xeuE5hE0F7YzQIQ1pV/T796X/Qla8JLgR0eTvSEj5eWcxpKERyd8bwqjbfEFnCKmOM3YduqFlAccLW7MnjtyLEhw4P7ViWU9TepHBl8a/jcOrr2YwulUFK9u/pYPbiKWiBO+PWYCYZ8ykzbDOKUPtYsg8Cuq1lDuY+QMJ1ePM60F3YAbkRxbyPOL+JCPWxNhYAFzs69z2I2X/ou97CKX2OBMrKUGxRu0qGTDaN/a8zRbucSMhoKyGqzmwYpuV2Pgb4kuOddmn3c6pXkjMhUdvNMCkxbiOWTpuKE134AfwoHlgpVFE8sZpOedUrbIfOPS
+    ufoLicenseKey: QWN1bVBaei8vLy8vQUFBQUtCSGJPSzNjZEVqbHU0ZVNRc1d5QlZwNFNwVk1LdjZuSm1oYkhXU3AwYkJkZTFCTkl6UElWd2gwdVpRVWVBQWs0a2JCSFBkRFJ3WkJaSVliekVWRzA5VkRrNExnNDloeHZhUW1TSXFVRWJXVGt4Z0lRSVgzbHBHOS9GKzV1cjJPN1FmV0RjcDd6cWRNaUJmLzVOb3ZmWjIzT1p3YVg5UDU4ZEJiM1RTNHhCTFlPK2Y0UlR1L0ZCY21XT1k5ZFI1RnFQdXFqN1pRdmJqVUYxQU1yaUZNbnJ6VFFjb3l3OUM4Z01rbE5KZC9MeWhyMjAzbTgwNnVYUGZjWnVUR2l6RHF0clpBMFdzUGRQc082b2ZyZHhubTNhMFBzNnBzOGJoWEtsR2FpQ0k2NDFPRlhLRjVWdzRjWkYxUTlnc3k1a3JvTEc2V0VvMUNHeGZvMHJtU1FzR0M4Y0IrZXBLdzJHQjN0TkZoQjJVWGR6K2c=
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -3
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 0
+    useDelayedLoadingObjectTargets: 0
+    cameraDirection: 0
+    mirrorVideoBackground: 0
+  digitalEyewear:
+    cameraOffset: 0.06
+    distortionRenderingLayer: 31
+    eyewearType: 2
+    stereoFramework: 0
+    seeThroughConfiguration: 0
+    viewerName: Cardboard v1
+    viewerManufacturer: Google
+    useCustomViewer: 1
+    customViewer:
+      Version: 2
+      Name: VR Box 2.0
+      Manufacturer: VR Box 2.0
+      ButtonType: 0
+      ScreenToLensDistance: 0.05
+      InterLensDistance: 0.06
+      TrayAlignment: 0
+      LensCenterToTrayDistance: 0.03725
+      DistortionCoefficients: {x: 0.07, y: 0.03}
+      FieldOfView: {x: 90, y: 90, z: 90, w: 90}
+      ContainsMagnet: 0
+  databaseLoad:
+    dataSetsToLoad:
+    - MagicaWorld
+    dataSetsToActivate:
+    - MagicaWorld
+  videoBackground:
+    clippingMode: 0
+    numDivisions: 2
+    videoBackgroundShader: {fileID: 15311, guid: 0000000000000000f000000000000000,
+      type: 0}
+    matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
+    videoBackgroundEnabled: 1
+  smartTerrainTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    autoInitBuilder: 0
+    sceneUnitsToMillimeter: 0
+  deviceTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    trackingMode: 0
+    posePrediction: 0
+    modelCorrectionMode: 1
+    modelTransformEnabled: 0
+    modelTransform: {x: 0, y: 0.1, z: -0.1}
+  webcam:
+    deviceNameSetInEditor: 
+    flipHorizontally: 0
+    turnOffWebCam: 0
+    renderTextureLayer: 30

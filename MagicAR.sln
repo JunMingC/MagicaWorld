@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAR", "MagicAR.csproj", "{6ABBED05-67AF-DF80-0E30-FA753CF5C862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAR.Plugins", "MagicAR.Plugins.csproj", "{6037BACA-F006-5406-6989-EE11F9464F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAR.Editor.Plugins", "MagicAR.Editor.Plugins.csproj", "{CC9ADD62-7599-5248-66A2-3480BE265080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAR.Editor", "MagicAR.Editor.csproj", "{ABBD062D-0360-6B10-18F6-B9A802194483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABBED05-67AF-DF80-0E30-FA753CF5C862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABBED05-67AF-DF80-0E30-FA753CF5C862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABBED05-67AF-DF80-0E30-FA753CF5C862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABBED05-67AF-DF80-0E30-FA753CF5C862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6037BACA-F006-5406-6989-EE11F9464F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6037BACA-F006-5406-6989-EE11F9464F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6037BACA-F006-5406-6989-EE11F9464F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6037BACA-F006-5406-6989-EE11F9464F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9ADD62-7599-5248-66A2-3480BE265080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9ADD62-7599-5248-66A2-3480BE265080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9ADD62-7599-5248-66A2-3480BE265080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9ADD62-7599-5248-66A2-3480BE265080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBD062D-0360-6B10-18F6-B9A802194483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD062D-0360-6B10-18F6-B9A802194483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD062D-0360-6B10-18F6-B9A802194483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD062D-0360-6B10-18F6-B9A802194483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

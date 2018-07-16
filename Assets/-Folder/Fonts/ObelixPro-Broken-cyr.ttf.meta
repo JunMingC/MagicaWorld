@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dacaf9de3080c0f4db50a6b04b5544c4
+timeCreated: 1516456375
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ObelixProBroken
+  fontNames:
+  - ObelixProBroken
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
